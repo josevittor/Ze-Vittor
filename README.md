@@ -2,7 +2,7 @@
 
 Cidade: Alvinlândia/SP
 
-Endereço: Rua XXXXXXXXXX - N: XXX
+Endereço: Rua XXXXXXXXXX - Nº: XXX
 
 Tel:(XX) XXXXX-XXXX
 
